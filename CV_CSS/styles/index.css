@@ -1,0 +1,97 @@
+.Body_class {
+  font-family: monospace;
+
+  background-color: rgb(192, 194, 196);
+}
+
+.My_Photo {
+  width: 350px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px rgb(40, 85, 85);
+  margin-top: 20px;
+}
+
+.Name_div {
+  background-color: rgba(177, 181, 187, 0.781);
+  width: 340px;
+  border-radius: 20px;
+  opacity: 80%;
+  text-align: center;
+  box-shadow: 5px 5px 5px rgb(11, 68, 68);
+  padding: 5px;
+}
+
+#My_Name {
+  color: rgb(11, 68, 68);
+  font-size: 28px;
+  text-transform: uppercase;
+}
+
+#Future_Profession {
+}
+
+.Contacts_div {
+  background-color: rgba(177, 181, 187, 0.781);
+  width: 320px;
+  border-radius: 20px;
+  opacity: 80%;
+  text-align: left;
+  padding: 10px 15px 10px 15px;
+  box-shadow: 5px 5px 5px rgb(11, 68, 68);
+  margin-top: 20px;
+}
+.Contacts_header {
+  font-size: 26px;
+  color: rgb(11, 68, 68);
+  font-weight: bolder;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.Info_Section {
+  font-size: 13px;
+}
+
+.Info_Type {
+  color: rgb(52, 59, 66);
+  font-weight: bolder;
+  text-transform: uppercase;
+}
+
+.Skills_div {
+  background-color: rgba(177, 181, 187, 0.781);
+  width: 320px;
+  border-radius: 20px;
+  opacity: 80%;
+  text-align: left;
+  padding: 10px 15px 10px 15px;
+  box-shadow: 5px 5px 5px rgb(11, 68, 68);
+  margin-top: 20px;
+}
+
+.List_Items {
+  font-weight: bolder;
+  font-size: 14px;
+  color: rgb(82, 41, 41);
+}
+
+.Job_Name {
+  color: rgb(82, 41, 41);
+  font-weight: bolder;
+  text-transform: uppercase;
+  margin-top: 25px;
+  text-decoration: underline;
+}
+
+.Job_Terms {
+  font-style: italic;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+.Job_Activities {
+  text-align: justify;
+  margin-left: -20px;
+  margin-right: 10px;
+  border-bottom: 5px brown;
+}
